@@ -62,12 +62,12 @@ link: This operator allows you to search for pages that link to a specific URL. 
 cache: This operator allows you to view the cached version of a page. For example, "cache:example.com" would show the cached version of the example.com website.
 
 
-## OUTOUT 
+## OUTPUT 
 ![image](https://github.com/SivaramakrishnanBaskar/Enumeration/assets/119476322/bf6a0fcd-4708-4e80-91b6-0763a7fe406d)
  
-#DNS Enumeration
+# DNS Enumeration
 
-##DNS Recon
+## DNS Recon
 
 provides the ability to perform:
 Check all NS records for zone transfers
